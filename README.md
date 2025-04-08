@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashkrit Rai</h1>
 <h3 align="center">A student from MNNIT Allahabad</h3>
 
-<!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=askme007&label=Profile%20views&color=0e75b6&style=flat" alt="askme007" /> </p> --->
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=askme007&label=Profile%20views&color=0e75b6&style=flat" alt="askme007" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=askme007" alt="Ashkrit" /></a> </p>
 
 - 🔭 I’m currently working on [AI-Attendance-System](https://github.com/Askme007/AI-Attendance-System)
