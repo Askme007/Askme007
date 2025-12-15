@@ -36,7 +36,7 @@
 
 ## 🚀 Featured Project  
 
-### 🧭 Pathfinder – AI Career Mentor *(Frontend Prototype)*  
+### Pathfinder – AI Career Mentor *(Frontend Prototype)*  
 📌 **Interactive UI for an AI-powered Career Guidance Platform**  
 🔗 [View Repository](https://github.com/Askme007/pathfinder-ai-mentor)
 
@@ -45,7 +45,7 @@
 - Skill gap analysis through mock quizzes and result visualization  
 - Clean, responsive UI with modular component-based architecture  
 - Built using **React (Vite), TypeScript, TailwindCSS & Framer Motion**
-
+  
 ---
 
 ### AI Attendance System  
