@@ -8,7 +8,7 @@
 
 ---
 
-##  About Me  
+## About Me  
 - 🎓 Undergraduate at **MNNIT Allahabad**
 - 🔭 Currently building **AI-powered systems**
 - 🤖 Strong interest in **Computer Vision & Machine Learning**
@@ -19,24 +19,36 @@
 
 ## 🛠️ Tech Stack  
 
-### 👨‍💻 Languages  
+### Languages  
 `C` `C++` `Java` `Python` `JavaScript`
 
-### 🌐 Web & Backend  
+### Web & Backend  
 `HTML` `CSS` `React` `Node.js` `Express` `MongoDB`
 
-### 🤖 AI / ML / Data  
+### AI / ML / Data  
 `OpenCV` `PyTorch` `TensorFlow` `Scikit-learn`  
 `Pandas` `Seaborn`
 
-### 🧰 Tools  
+### Tools  
 `Git` `Blender` `Photoshop`
 
 ---
 
 ## 🚀 Featured Project  
 
-### 🧠 AI Attendance System  
+### 🧭 Pathfinder – AI Career Mentor *(Frontend Prototype)*  
+📌 **Interactive UI for an AI-powered Career Guidance Platform**  
+🔗 [View Repository](https://github.com/Askme007/pathfinder-ai-mentor)
+
+- AI mentor chat interface with simulated responses and typing animations  
+- Dynamic career roadmap generator with step-by-step learning paths  
+- Skill gap analysis through mock quizzes and result visualization  
+- Clean, responsive UI with modular component-based architecture  
+- Built using **React (Vite), TypeScript, TailwindCSS & Framer Motion**
+
+---
+
+### AI Attendance System  
 📌 **Face Recognition based Smart Attendance**  
 🔗 [View Repository](https://github.com/Askme007/AI-Attendance-System)
 
@@ -48,16 +60,29 @@
 
 ---
 
-### 🧭 Pathfinder – AI Career Mentor *(Frontend Prototype)*  
-📌 **Interactive UI for an AI-powered career guidance platform**
-🔗 [View Repository](https://github.com/Askme007/pathfinder-ai-mentor)
+### Stock Price Prediction with Stacked LSTM & Sentiment Analysis  
+📌 **Deep Learning–based Stock Forecasting System**  
+🔗 [View Repository](https://github.com/Askme007/Stock-Prediction-Model_NASA)
 
-- AI mentor chat interface with simulated responses and typing animations  
-- Dynamic career roadmap generator with step-by-step learning paths  
-- Skill gap analysis using mock quizzes and result visualization  
-- Modern, responsive UI with clean component-driven design  
-- Built using **React (Vite), TypeScript, TailwindCSS & Framer Motion**
+- Predicts stock prices using a **Stacked LSTM neural network**  
+- Retrieves historical stock data via **Yahoo Finance (yfinance)**  
+- Forecasts future prices (next 30 days)  
+- Integrates **news sentiment analysis** using RSS feeds and TextBlob  
+- Evaluates model performance using **RMSE and custom judging metrics**  
+- Built using **Python, TensorFlow/Keras, scikit-learn, Pandas & NLP tools**
 
+---
+
+### KindKonnect  
+📌 **Social Platform Connecting NGOs, Donors & Volunteers**  
+🔗 [View Repository](https://github.com/Askme007/KindKonnect)
+
+- Social media platform for NGOs and changemakers  
+- Secure authentication with **JWT-based role management**  
+- NGOs can create **donation and volunteer campaigns**  
+- Integrated **Razorpay / Stripe** for secure donations  
+- NGO dashboard for campaign, donation & volunteer tracking  
+- Built using **React, Node.js, Express & MongoDB**
 
 ---
 
@@ -68,7 +93,7 @@
 
 ---
 
-## 📊 GitHub Analytics  
+## GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=askme007&show_icons=true&theme=tokyonight" height="160"/>
