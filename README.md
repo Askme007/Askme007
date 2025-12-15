@@ -123,3 +123,5 @@
 ---
 
 ⭐ *If you like my work, consider starring my repositories!*  
+
+![Profile Views](https://komarev.com/ghpvc/?username=Askme007&label=Profile%20Views&color=0e75b6&style=flat)
