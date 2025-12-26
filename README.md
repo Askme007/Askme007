@@ -13,7 +13,6 @@
 - 🔭 Currently building **AI-powered systems**
 - 🤖 Strong interest in **Computer Vision & Machine Learning**
 - ⚡ Competitive Programmer (Codeforces & LeetCode)
-- 📫 Reach me at **ashkrit137@gmail.com**
 
 ---
 
@@ -88,8 +87,8 @@
 
 ## 🏆 Competitive Programming  
 
-🔹 **Codeforces**: [ash_137](https://codeforces.com/profile/ash_137)  
-🔹 **LeetCode**: [ash_137](https://www.leetcode.com/ash_137)
+🔹 **Codeforces**: [](https://codeforces.com/profile/)  
+🔹 **LeetCode**: [](https://www.leetcode.com/)
 
 ---
 
