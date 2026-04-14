@@ -11,7 +11,7 @@
 ## About Me  
 - 🎓 Undergraduate at **MNNIT Allahabad**
 - 🔭 Currently building **AI-powered systems**
-- 🤖 Strong interest in **Computer Vision & Machine Learning**
+- 🤖 Strong interest in **AI & Machine Learning**
 - ⚡ Competitive Programmer (Codeforces & LeetCode)
 
 ---
@@ -29,7 +29,7 @@
 `Pandas` `Seaborn`
 
 ### Tools  
-`Git` `Blender` `Photoshop`
+`Git`
 
 ---
 
@@ -87,8 +87,8 @@
 
 ## 🏆 Competitive Programming  
 
-🔹 **Codeforces**: [](https://codeforces.com/profile/)  
-🔹 **LeetCode**: [](https://www.leetcode.com/)
+🔹 **Codeforces**: [](https://codeforces.com/profile/ASH.TIME)  
+🔹 **LeetCode**: [](https://www.leetcode.com/ASH_TIME)
 
 ---
 
@@ -108,10 +108,10 @@
 ## 🤝 Connect With Me  
 
 <p align="left">
-  <a href="https://codeforces.com/profile/ash_137">
+  <a href="https://codeforces.com/profile/ASH.TIME">
     <img src="https://img.shields.io/badge/Codeforces-Competitive-blue?style=for-the-badge"/>
   </a>
-  <a href="https://www.leetcode.com/ash_137">
+  <a href="https://www.leetcode.com/ASH_TIME">
     <img src="https://img.shields.io/badge/LeetCode-Problem_Solving-orange?style=for-the-badge"/>
   </a>
   <a href="mailto:ashkrit137@gmail.com">
