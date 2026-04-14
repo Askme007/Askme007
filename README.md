@@ -87,8 +87,8 @@
 
 ## 🏆 Competitive Programming  
 
-🔹 **Codeforces**: [](https://codeforces.com/profile/ASH.TIME)  
-🔹 **LeetCode**: [](https://www.leetcode.com/ASH_TIME)
+🔹 **Codeforces**: [ASH.TIME](https://codeforces.com/profile/ASH.TIME)  
+🔹 **LeetCode**: [ASH_TIME](https://www.leetcode.com/ASH_TIME)
 
 ---
 
