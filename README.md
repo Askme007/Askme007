@@ -87,21 +87,36 @@
 
 ## 🏆 Competitive Programming  
 
-🔹 **Codeforces**: [ASH.TIME](https://codeforces.com/profile/ASH.TIME)  
-🔹 **LeetCode**: [ASH_TIME](https://www.leetcode.com/ASH_TIME)
+ 
+### Codeforces
+
+<div align="center">
+  
+[![Codeforces](https://img.shields.io/badge/Codeforces-ASH.TIME-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/ASH.TIME)
+
+</div>
+
+### LeetCode Progress
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/Profile-ASH_TIME-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ASH_TIME/)
+
+<img src="https://leetcard.jacoblin.cool/ASH_TIME?theme=dark&font=JetBrains%20Mono&hide=heatmap" alt="LeetCode Stats" width="60%" />
+
+</div>
 
 ---
 
 ## GitHub Analytics  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=askme007&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=askme007&layout=compact&theme=tokyonight" height="160"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=askme007&theme=tokyonight"/>
-</p>
+<!-- Profile Details & Stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Askme007&theme=github_dark" alt="Contribution Graph" width="100%" />
+
+
+</div>
 
 ---
 
