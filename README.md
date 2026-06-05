@@ -35,15 +35,18 @@
 
 ## 🚀 Featured Project  
 
-### Pathfinder – AI Career Mentor *(Frontend Prototype)*  
-📌 **Interactive UI for an AI-powered Career Guidance Platform**  
-🔗 [View Repository](https://github.com/Askme007/pathfinder-ai-mentor)
+### Navixo – AI Career Navigation Platform
+📌 **AI-powered platform that helps students discover career paths, generate personalized roadmaps, and receive intelligent mentorship**
 
-- AI mentor chat interface with simulated responses and typing animations  
-- Dynamic career roadmap generator with step-by-step learning paths  
-- Skill gap analysis through mock quizzes and result visualization  
-- Clean, responsive UI with modular component-based architecture  
-- Built using **React (Vite), TypeScript, TailwindCSS & Framer Motion**
+🔗 [View Repository](https://github.com/Askme007/Navixo)
+🔗 [Visit](https://navixo.site)
+
+- Secure authentication with Email/Password and Google OAuth
+- Personalized AI career mentorship and interactive chat assistance
+- Dynamic roadmap generation tailored to user goals and interests
+- User profiles, onboarding flow, and progress tracking
+- Responsive dashboard with roadmap and career planning features
+- Built with React, TypeScript, TailwindCSS, Supabase, Vite, and Framer Motion
   
 ---
 
