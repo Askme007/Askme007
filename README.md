@@ -238,13 +238,16 @@ Platform connecting NGOs, donors, and volunteers with campaign management and se
 <p>Building something interesting? Want to collaborate on AI systems or full-stack products?</p>
 
 <a href="mailto:ashkrit137@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Send_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Email-Send_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Askme007">
-  <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ashkrit-rai/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 <br /><br />
 
 <sup><i>"Systems that think. Code that ships. Problems that matter."</i></sup>
