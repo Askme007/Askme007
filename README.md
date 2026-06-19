@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1200&color=F97316&center=true&vCenter=true&width=750&lines=AI+Builder+%C2%B7+Full+Stack+Engineer+%C2%B7+Competitive+Programmer;Building+Navixo+%E2%80%94+AI+career+navigation+%40+navixo.site;CS+%40+MNNIT+Allahabad+%C2%B7+Open+to+SDE+Internships;Stacking+LSTMs%2C+shipping+products%2C+solving+graphs" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1200&color=F97316&center=true&vCenter=true&width=750&lines=AI+Builder+%C2%B7+Full+Stack+Engineer+%C2%B7+Competitive+Programmer;Building+Navixo+%E2%80%94+AI+career+navigation+%40+navixo.site;CS+%40+MNNIT+Allahabad+%C2%B7+Open+to+Work;Stacking+LSTMs%2C+shipping+products%2C+solving+graphs" alt="typing" />
 
 <br />
 
@@ -47,7 +47,7 @@ Currently: <a href="https://navixo.site"><b>Navixo</b></a> — an AI career navi
 <tr>
 <td>
 
-### [🧭 Navixo](https://navixo.site) &nbsp; ![Live](https://img.shields.io/badge/Live-22c55e?style=flat-square&labelColor=0d1117)
+### [Navixo](https://navixo.site) &nbsp; ![Live](https://img.shields.io/badge/Live-22c55e?style=flat-square&labelColor=0d1117)
 
 **AI-powered career navigation platform for engineers.** Personalized AI mentor chat, roadmap generation, onboarding flow, task tracking, and progress analytics — all in one execution-focused dashboard.
 
@@ -109,7 +109,7 @@ Built with **React · TypeScript · Vite · Node.js · Express · PostgreSQL · 
 <tr>
 <td width="50%" valign="top">
 
-### [🧭 Navixo](https://github.com/Askme007/Navixo)
+### [Navixo](https://github.com/Askme007/Navixo)
 > AI career navigation · Full stack · Live deployment
 
 Full-stack platform with Google OAuth + JWT auth, Gemini AI mentor, roadmap generation, and an execution-focused progress dashboard.
@@ -121,7 +121,7 @@ Full-stack platform with Google OAuth + JWT auth, Gemini AI mentor, roadmap gene
 </td>
 <td width="50%" valign="top">
 
-### [👁️ AI Attendance System](https://github.com/Askme007/AI-Attendance-System)
+### [AI Attendance System](https://github.com/Askme007/AI-Attendance-System)
 > Computer vision · Real-time detection · Multi-face
 
 Real-time face recognition with automated attendance logging. Handles multiple simultaneous faces in live video streams.
@@ -135,7 +135,7 @@ Real-time face recognition with automated attendance logging. Handles multiple s
 <tr>
 <td width="50%" valign="top">
 
-### [📈 Stock Prediction Model](https://github.com/Askme007/Stock-Prediction-Model_NASA)
+### [Stock Prediction Model](https://github.com/Askme007/Stock-Prediction-Model_NASA)
 > Deep learning · LSTM · Sentiment signals
 
 Stacked LSTM + RSS feed sentiment analysis for stock price forecasting. Trained on Yahoo Finance historical data with TextBlob NLP pipeline.
@@ -147,7 +147,7 @@ Stacked LSTM + RSS feed sentiment analysis for stock price forecasting. Trained 
 </td>
 <td width="50%" valign="top">
 
-### [🤝 KindKonnect](https://github.com/Askme007/KindKonnect)
+### [KindKonnect](https://github.com/Askme007/KindKonnect)
 > Social impact · Role-based auth · Full stack
 
 Platform connecting NGOs, donors, and volunteers with campaign management and secure donation integration.
