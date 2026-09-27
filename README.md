@@ -134,15 +134,15 @@ Real-time face recognition with automated attendance logging. Handles multiple s
 </tr>
 <tr>
 <td width="50%" valign="top">
+  
+### [MarketPulse](https://github.com/Askme007/MarketPulse)
+> Time-series forecasting · REST API · Sentiment signals
 
-### [Stock Prediction Model](https://github.com/Askme007/Stock-Prediction-Model_NASA)
-> Deep learning · LSTM · Sentiment signals
+Multivariate LSTM service fusing historical market prices with real-time news sentiment polarity. Built with automated database caching in Supabase PostgreSQL, full `pytest` suite, and live cloud deployment.
 
-Stacked LSTM + RSS feed sentiment analysis for stock price forecasting. Trained on Yahoo Finance historical data with TextBlob NLP pipeline.
+`Python` `FastAPI` `PostgreSQL` `Supabase` `NumPy` `SQLAlchemy` `pytest`
 
-`TensorFlow` `Keras` `Pandas` `scikit-learn` `NLP`
-
-[Source →](https://github.com/Askme007/Stock-Prediction-Model_NASA)
+[Live API →](https://marketpulse-api-eb4i.onrender.com/docs) · [Source →](https://github.com/Askme007/MarketPulse)
 
 </td>
 <td width="50%" valign="top">
